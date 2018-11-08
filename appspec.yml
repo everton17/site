@@ -5,4 +5,5 @@ files:
          destination: /var/www/html/site/
 
 afterinstall:
-        -location: /src/permissions.sh
+        -location: /srv/permissions.sh
+        
